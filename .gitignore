@@ -1,1 +1,11 @@
 *.log
+data/ib_logfile0                    
+data/ibdata1                        
+data/isalia/usuarios.frm            
+data/isalia/usuarios.ibd            
+data/mysql.pid                      
+data/mysql/innodb_index_stats.ibd   
+data/mysql/innodb_table_stats.ibd   
+data/mysql_error.log               
+data/phpmyadmin/pma__recent.ibd     
+data/phpmyadmin/pma__userconfig.ibd 
